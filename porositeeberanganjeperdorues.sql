@@ -1,0 +1,1 @@
+SELECT PorosiID FROM porosi WHERE PerdoruesID=3; 

@@ -1,0 +1,1 @@
+SELECT * FROM oferta WHERE fastfoodID=1 AND MenuID=2; 

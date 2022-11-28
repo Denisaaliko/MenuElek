@@ -1,0 +1,1 @@
+SELECT * FROM fastfood WHERE fastfoodID=3; 

@@ -1,0 +1,5 @@
+Alter TABLE oferta 
+ADD CONSTRAINT fk_menuid
+ FOREIGN KEY(MenuID) 
+REFERENCES menu(MenuID) 
+ON DELETE SET NULL; 

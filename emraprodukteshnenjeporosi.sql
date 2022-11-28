@@ -1,0 +1,1 @@
+SELECT Emer from produkt INNER JOIN porosidetaje on porosidetaje.ProduktID=produkt.ProduktID WHERE PorosiID=2;

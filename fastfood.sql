@@ -1,0 +1,7 @@
+CREATE TABLE fastfood ( 
+fastfoodID INT PRIMARY KEY AUTO_INCREMENT, 
+Emer VARCHAR(20), 
+Vendndodhje VARCHAR(255), 
+Orar VARCHAR(30), 
+Imazh VARCHAR(30)
+); 

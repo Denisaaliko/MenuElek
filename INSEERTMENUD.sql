@@ -1,0 +1,1 @@
+INSERT INTO menudetaje VALUES(1,1), (1,3), (1,4), (2,2); 

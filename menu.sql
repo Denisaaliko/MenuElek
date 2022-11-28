@@ -1,0 +1,5 @@
+CREATE TABLE menu ( 
+MenuID INT PRIMARY KEY AUTO_INCREMENT, 
+fastfoodID INT, 
+Emer VARCHAR(10)
+); 

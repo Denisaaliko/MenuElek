@@ -1,0 +1,3 @@
+ALTER TABLE users 
+ADD COLUMN PerdoruesID INT NOT NULL;
+ALTER TABLE users ADD FOREIGN KEY (PerdoruesID) REFERENCES porosi(PerdoruesID);

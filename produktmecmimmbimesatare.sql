@@ -1,0 +1,1 @@
+SELECT * FROM smartmenu.produkte_me_cmim_mbi_mesataren;
